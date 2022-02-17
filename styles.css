@@ -1,0 +1,31 @@
+#mainbody {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color:rgb(246, 246, 255);
+    padding:30px;
+    width:600px;
+    border-radius:20px;
+    box-shadow: 0px 0px 30px 40px rgb(246, 246, 255);
+    text-align:right;
+  }
+a {
+  color: rgb(127, 175, 190);
+}
+
+td {
+  padding-right:30px;
+}
+img {
+  border-radius:20px;
+}
+
+  body {
+    background: url("3432.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
+  }
